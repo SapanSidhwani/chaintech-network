@@ -1,3 +1,10 @@
+## Deployed Project
+The application is deployed and can be accessed [here](https://chaintech-network-97vy.onrender.com).
+
+# React Internship Project
+
+Welcome to the React Internship Project! This project is focused on creating a React application for managing user accounts. Below, you'll find information on how to run the application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
