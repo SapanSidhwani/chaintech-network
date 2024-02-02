@@ -1,13 +1,14 @@
-.loginPage {
+.login-page {
     width: 370px;
     margin: auto;
     margin-top: 50px;
     padding: 30px;
 }
 
-.registrationPage {
+.registration-page {
     width: 370px;
     margin: auto;
     margin-top: 50px;
     padding: 30px 40px 0;
 }
+
